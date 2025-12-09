@@ -1,33 +1,49 @@
+### Hi there! 👋
 
-<div align='center'>
+I am a **Computer Science Student** and a passionate **Cloud & DevOps Engineer** from Assam, India 🇮🇳.
 
-<p>🚀 Cloud & DevOps Engineer in the making. > I am a CS student passionate about the tools that power the modern web. I focus on bridging the gap between development and operations through automation. 🛠️ > My Core Stack: > 🐧 Linux & Networking: The backbone of my infrastructure knowledge. > 🔄 Git & GitHub: For version control and collaboration. > 📦 Docker: Currently mastering containerization workflows. > ⚓ Kubernetes: Diving deep into orchestration and cluster management. > I am an Open Source enthusiast aiming for GSoC. Always learning, always building. ⚡</p>
+I focus on building scalable infrastructure, automating workflows, and contributing to the Open Source ecosystem. I am currently deep-diving into Cloud Native technologies and orchestration.
 
-<h4> <span> · </span> <a href="https://github.com/Dhritiraj-Nath/Dhritiraj-Nath/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/Dhritiraj-Nath/Dhritiraj-Nath/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/Dhritiraj-Nath/Dhritiraj-Nath/issues"> Request Feature </a> </h4>
+---
 
+### 🚀 **About Me**
 
-</div>
+- 🎓 **Studying:** Computer Science & Engineering.
+- 🔭 **I’m currently working on:** Mastering **Kubernetes** ☸️ and **Docker** 🐳 workflows.
+- 🌱 **I’m currently learning:** Advanced Linux Administration, Networking, and Infrastructure as Code (YAML).
+- 👯 **I’m looking to contribute to:** Open Source projects and preparing for **Google Summer of Code (GSoC)**.
+- ⚡ **Fun fact:** I love customizing my Linux terminal and can exit Vim without panicking! 🐧
 
-# :notebook_with_decorative_cover: Table of Contents
+---
 
-- [About the Project](#star2-about-the-project)
-- [Contact](#handshake-contact)
+### 🛠️ **Languages & Tools**
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  
+  <br>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+</p>
 
-## :star2: About the Project
+---
 
-## :wave: Contributing
+### 📊 **GitHub Stats**
 
-<a href="https://github.com/Dhritiraj-Nath/Dhritiraj-Nath/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-Contributions are always welcome!
+---
 
-see `contributing.md` for ways to get started
+### 📫 **Connect with Me**
 
-### :scroll: Code of Conduct
-
-Please read the [Code of Conduct](https://github.com/Dhritiraj-Nath/Dhritiraj-Nath/blob/master/CODE_OF_CONDUCT.md)
-
-## :handshake: Contact
-
-DHRITIRAJ NATH - - techwithrajj@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhritiraj-nath-6b2769319/)
+- 📧 [Email](techwithraj@gmail.com)
