@@ -2,7 +2,7 @@
 
 I am a **Computer Science Student** and a passionate **Cloud & DevOps Engineer** from Assam, India 🇮🇳.
 
-I focus on building scalable infrastructure, automating workflows, and contributing to the Open Source ecosystem. I am currently deep-diving into Cloud Native technologies and orchestration.
+I focus on building scalable infrastructure, automating workflows, and contributing to the Open Source ecosystem.
 
 ---
 
@@ -23,27 +23,18 @@ I focus on building scalable infrastructure, automating workflows, and contribut
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  
-  <br>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
 ---
-### 📊 GitHub Stats
-![Dhritiraj-Nath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhritiraj-Nath&show_icons=true&theme=radical)
 
-### 📈 Streak
-![Dhritiraj-Nath's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhritiraj-Nath&theme=radical)
+### 📊 **GitHub Stats**
 
-### 💻 Top Languages
-![Dhritiraj-Nath's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhritiraj-Nath&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhritiraj-Nath&show_icons=true&theme=radical" alt="Dhritiraj-Nath's GitHub Stats" />
+</p>
+
 ---
 
 ### 📫 **Connect with Me**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/dhritiraj-nath-6b2769319/)
-- 📧 [Email](techwithraj@gmail.com)
+- [LinkedIn](https://linkedin.com/in/your-profile)
