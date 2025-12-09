@@ -33,24 +33,14 @@ I focus on building scalable infrastructure, automating workflows, and contribut
 </p>
 
 ---
-### 📊 **GitHub Analytics**
+### 📊 GitHub Stats
+![Dhritiraj-Nath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhritiraj-Nath&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhritiraj-Nath&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Dhritiraj-Nath's Trophies" />
-</p>
+### 📈 Streak
+![Dhritiraj-Nath's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhritiraj-Nath&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhritiraj-Nath&show_icons=true&theme=radical&count_private=true" alt="Dhritiraj-Nath's GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhritiraj-Nath&theme=radical" alt="Dhritiraj-Nath's Streak" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhritiraj-Nath&layout=compact&theme=radical&langs_count=8" alt="Dhritiraj-Nath's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhritiraj-Nath&style=flat-square&color=blueviolet" alt="Profile Views" />
-</p>
+### 💻 Top Languages
+![Dhritiraj-Nath's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhritiraj-Nath&layout=compact&theme=radical)
 ---
 
 ### 📫 **Connect with Me**
