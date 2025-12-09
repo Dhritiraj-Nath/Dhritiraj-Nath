@@ -1,28 +1,33 @@
-<h1 align="center">Hi 👋, I'm Dhritiraj</h1>
-<h3 align="center">"Aspiring Cloud Engineer | Exploring AWS, DevOps, and Scalable System Design"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhritiraj-nath&label=Profile%20views&color=0e75b6&style=flat" alt="dhritiraj-nath" /> </p>
+<div align='center'>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhritiraj-nath" alt="dhritiraj-nath" /></a> </p>
+<p>🚀 Cloud & DevOps Engineer in the making. > I am a CS student passionate about the tools that power the modern web. I focus on bridging the gap between development and operations through automation. 🛠️ > My Core Stack: > 🐧 Linux & Networking: The backbone of my infrastructure knowledge. > 🔄 Git & GitHub: For version control and collaboration. > 📦 Docker: Currently mastering containerization workflows. > ⚓ Kubernetes: Diving deep into orchestration and cluster management. > I am an Open Source enthusiast aiming for GSoC. Always learning, always building. ⚡</p>
 
-<p align="left"> <a href="https://twitter.com/dhritirain29842" target="blank"><img src="https://img.shields.io/twitter/follow/dhritirain29842?logo=twitter&style=for-the-badge" alt="dhritirain29842" /></a> </p>
+<h4> <span> · </span> <a href="https://github.com/Dhritiraj-Nath/Dhritiraj-Nath/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/Dhritiraj-Nath/Dhritiraj-Nath/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/Dhritiraj-Nath/Dhritiraj-Nath/issues"> Request Feature </a> </h4>
 
-- 🌱 I’m currently learning **## 🚀 Currently Learning - 🧩 **Data Structures and Algorithms (DSA)** with **Java** - ☁️ **Cloud Technologies** — focusing on **Amazon Web Services (AWS)** - 🐧 **Linux Fundamentals** and **System Administration** - 🌐 **Computer Networking Concepts****
 
-- 📫 How to reach me **ndhritiraj3@gmail.com**
+</div>
 
-- ⚡ Fun fact **## ⚡ Fun Fact When I'm not coding or exploring cloud tech, you'll probably find me immersed in literature, art, or drama.**
+# :notebook_with_decorative_cover: Table of Contents
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dhritirain29842" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhritirain29842" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhritiraj-nath-6b2769319/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhritiraj-nath-6b2769319/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/raj_xbit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/raj_xbit" height="30" width="40" /></a>
-</p>
+- [About the Project](#star2-about-the-project)
+- [Contact](#handshake-contact)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhritiraj-nath&show_icons=true&locale=en" alt="dhritiraj-nath" /></p>
+## :star2: About the Project
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhritiraj-nath&" alt="dhritiraj-nath" /></p>
+## :wave: Contributing
+
+<a href="https://github.com/Dhritiraj-Nath/Dhritiraj-Nath/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
+
+Contributions are always welcome!
+
+see `contributing.md` for ways to get started
+
+### :scroll: Code of Conduct
+
+Please read the [Code of Conduct](https://github.com/Dhritiraj-Nath/Dhritiraj-Nath/blob/master/CODE_OF_CONDUCT.md)
+
+## :handshake: Contact
+
+DHRITIRAJ NATH - - techwithrajj@gmail.com
