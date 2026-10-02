@@ -1,131 +1,147 @@
-<!-- ============ HEADER BANNER (3D-style) ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Dhritiraj%20Nath&fontSize=60&fontColor=00d4ff&animation=twinkling&fontAlignY=38&desc=Cloud%20%E2%80%A2%20DevOps%20%E2%80%A2%20Kubernetes%20%E2%80%A2%20Cloud%20Native&descAlignY=60&descSize=20" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Dhritiraj%20Nath&fontSize=62&fontColor=ffffff&fontAlignY=40&animation=fadeIn&stroke=00f2ff&strokeWidth=2&desc=%E2%98%81%EF%B8%8F%20Cloud%20%7C%20%F0%9F%90%B3%20Docker%20%7C%20%E2%98%B8%EF%B8%8F%20Kubernetes%20%7C%20%E2%9A%99%EF%B8%8F%20DevOps&descSize=20&descAlignY=62&customColorList=12,20,24,30" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Infrastructure+%E2%98%81%EF%B8%8F;Automating+Workflows+%E2%9A%99%EF%B8%8F;Containerizing+Everything+%F0%9F%90%B3;Orchestrating+with+Kubernetes+%E2%98%B8%EF%B8%8F;Contributing+to+Open+Source+%F0%9F%8C%90" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F2FF&center=true&vCenter=true&width=720&lines=%24+kubectl+get+pods+--all-namespaces;%24+docker+build+-t+my-app+.;%24+terraform+apply+-auto-approve;%24+git+push+origin+main+%F0%9F%9A%80;Building+%7C+Automating+%7C+Deploying+%7C+Scaling" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloud-Native-0db7ed?style=for-the-badge&logo=cncf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Native-00B4D8?style=for-the-badge&logo=cncf&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/CI%2FCD-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
 </p>
 
----
+<br>
 
-## 👨‍💻 About Me
+## 🧑‍💻 &nbsp;Who Am I?
 
-Computer Science & Engineering student from **Assam, India**, passionate about **Cloud, DevOps, and Cloud Native technologies**. I enjoy building infrastructure, automating workflows, working with containers, and understanding how modern applications are deployed and managed at scale.
+<table>
+<tr>
+<td width="60%">
 
-I'm actively contributing to **open source** and growing through real-world collaboration.
+```bash
+$ whoami
+dhritiraj
 
-```yaml
-# profile.yaml
-apiVersion: v1
-kind: Engineer
-metadata:
-  name: Dhritiraj Nath
-  location: Assam, India
-spec:
-  studying: Computer Science & Engineering
-  focus: [Cloud, DevOps, Kubernetes, Docker, CI/CD]
-  learning: [Linux, Networking, Cloud Infrastructure, Infrastructure as Code]
-  interests: [Cloud Native, Kubernetes Ecosystem, Open Source]
-  goal: "Become a strong Cloud/DevOps engineer through practical projects"
-status:
-  state: Building & Learning 🚀
+$ cat about.txt
+🎓 CSE Student  ·  📍 Assam, India
+☁️  Cloud + DevOps + Cloud Native enthusiast
+🔧 I build infrastructure & automate workflows
+📦 I love containers and how apps scale
+🤝 Open Source contributor in the making
+
+$ echo $GOAL
+Become a strong Cloud/DevOps Engineer 🚀
 ```
 
----
+</td>
+<td width="40%" align="center">
 
-## 🧭 Roadmap
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,linux,terraform,aws,githubactions&perline=3&theme=dark" />
 
-```mermaid
-flowchart LR
-    A[🐧 Linux & Networking] --> B[🐳 Docker]
-    B --> C[☸️ Kubernetes]
-    C --> D[🏗️ Infrastructure as Code]
-    D --> E[☁️ Cloud Native]
-    E --> F[🌐 Open Source Impact]
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🛠️ &nbsp;Tech Arsenal
+
+<p align="center"><b>☁️ Cloud &amp; Infrastructure</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,ansible,linux,nginx&perline=7" />
+</p>
+
+<p align="center"><b>📦 Containers &amp; Orchestration</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,prometheus,grafana&perline=5" />
+</p>
+
+<p align="center"><b>🔁 CI/CD &amp; Version Control</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,jenkins&perline=5" />
+</p>
+
+<p align="center"><b>💻 Languages &amp; Scripting</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,python,js,ts,vue,go&perline=6" />
+</p>
+
+> 💡 Delete any icon you haven't used yet. Keep it honest, and add more as you learn.
+
+<br>
+
+## 🎯 &nbsp;Learning Path
+
+```
+ 🐧 Linux  ──▶  🌐 Networking  ──▶  🐳 Docker  ──▶  ☸️ Kubernetes  ──▶  🏗️ IaC  ──▶  ☁️ Cloud Native
+   ████████       ██████░░           ████████         ██████░░          ████░░░░        ███░░░░░
 ```
 
----
+<br>
 
-## 🛠️ Tech Stack
+## 🌐 &nbsp;Open Source Journey
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,git,github,githubactions,terraform,ansible,prometheus,grafana,aws,python,js,ts,vue&perline=8" alt="Tech stack" />
-</p>
+<table>
+<tr>
+<td align="center" width="50%">
 
-> 🔧 Swap icons as your stack evolves. Full icon list: [skillicons.dev](https://skillicons.dev)
+### 🟣 Kestra
+![Status](https://img.shields.io/badge/First_PR-Merged_✔-8A2BE2?style=for-the-badge)
 
-| Domain | Tools |
-| --- | --- |
-| ☁️ **Cloud** | AWS *(learning)* |
-| 📦 **Containers & Orchestration** | Docker, Kubernetes |
-| 🔁 **CI/CD** | GitHub Actions |
-| 🏗️ **IaC** | Terraform, Ansible *(learning)* |
-| 🐧 **Systems** | Linux, Bash, Networking |
-| 🧪 **Languages** | Python, JavaScript, TypeScript |
+Added **unit tests for the topology status helper**, boosting frontend test coverage and reliability across execution states.
 
----
+</td>
+<td align="center" width="50%">
 
-## 🌐 Open Source Contributions
+### 🟢 Meshery
+![Status](https://img.shields.io/badge/Design-Pioneer_🎨-00B39F?style=for-the-badge)
 
-| Project | Contribution | Status |
-| --- | --- | --- |
-| [**Kestra**](https://github.com/kestra-io/kestra) | Added unit tests for the topology status helper, improving frontend test coverage and reliability across execution states | ✅ **First PR Merged** |
-| [**Meshery**](https://github.com/meshery/meshery) | Created my first design and began exploring the Cloud Native ecosystem through community participation | 🎨 **Design Pioneer** |
+Created my **first design** and started exploring the Cloud Native ecosystem through community contribution.
 
----
+</td>
+</tr>
+</table>
 
-## 📊 GitHub Stats
+<br>
+
+## 📊 &nbsp;GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+<br>
 
-<!-- 3D contribution graph: set up the github-profile-3d-contrib Action (see notes), then uncomment -->
-<!--
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
-</p>
--->
+## 🔭 &nbsp;Right Now
 
----
+| | |
+|---|---|
+| 🔨 **Building** | Projects around Kubernetes, Docker & CI/CD |
+| 📚 **Learning** | Linux · Networking · Cloud Infrastructure · IaC |
+| 🤝 **Looking to** | Contribute to Open Source & Cloud Native communities |
 
-## 🎯 Current Focus
+<br>
 
-**Cloud & DevOps → Kubernetes → Cloud Native → Open Source**
-
-- 🔭 Building hands-on projects around containers, CI/CD, and automation
-- 🌱 Deepening Linux, Networking, Cloud Infrastructure, and IaC
-- 🤝 Looking to contribute to Open Source and Cloud Native communities
-
----
-
-## 📫 Let's Connect
+## 📫 &nbsp;Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhritiraj-nath-6b2769319/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:techwithraj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+<p align="center"><i>"Automate everything. Deploy fearlessly. Never stop learning."</i> ⚡</p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&customColorList=12,20,24,30" />
 </p>
