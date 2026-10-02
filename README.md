@@ -1,6 +1,6 @@
 <!-- ═══════════════ DHRITIRAJ NATH • CLOUD / DEVOPS ═══════════════ -->
 
-<!-- 🚀 ANIMATED HEADER (name now high-contrast: white text + dark outline on bright gradient) -->
+<!-- 🚀 ANIMATED HEADER -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,25:7C3AED,50:06B6D4,75:22C55E,100:FACC15&height=300&section=header&text=Dhritiraj%20Nath&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&stroke=0B1020&strokeWidth=3&desc=%E2%98%81%EF%B8%8F%20Cloud%20%E2%80%A2%20%E2%9A%99%EF%B8%8F%20DevOps%20%E2%80%A2%20%E2%98%B8%EF%B8%8F%20Cloud%20Native&descAlignY=58&descSize=22&descColor=FFFFFF"
@@ -239,13 +239,7 @@ Contributing to real projects and learning through collaboration with open-sourc
 ## 🐍 Contribution Journey
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dhritiraj-Nath/Dhritiraj-Nath/output/github-snake-dark.svg" alt="GitHub contribution snake" />
-</p>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhritiraj-Nath&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <img src="https://ghchart.rshah.org/22D3EE/Dhritiraj-Nath" alt="Contribution chart" />
 </p>
 
 ## 🔭 Currently
