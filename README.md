@@ -9,9 +9,9 @@ I enjoy building infrastructure, automating workflows, working with containers, 
 ## 🚀 About Me
 
 * 🎓 **Studying:** Computer Science & Engineering
-* 🔭 **Currently working on:** Kubernetes, Docker, and CI/CD
+* 🔭 **Currently working on:** Cloud, DevOps, Kubernetes, Docker, and CI/CD
 * 🌱 **Currently learning:** Linux, Networking, Cloud Infrastructure, and Infrastructure as Code
-* ☁️ **Interested in:** Cloud Native technologies, DevOps, and Kubernetes ecosystem
+* ☁️ **Interested in:** Cloud Native technologies, DevOps, and the Kubernetes ecosystem
 * 🤝 **Looking to contribute to:** Open Source projects and Cloud Native communities
 * 🎯 **Goal:** Build practical projects and become a strong Cloud/DevOps engineer
 
@@ -35,6 +35,16 @@ I enjoy building infrastructure, automating workflows, working with containers, 
 ---
 
 ## 🌐 Open Source
+
+### Kestra — First PR Merged
+
+<p align="left">
+  <a href="https://kestra.io/community?from=github-badge">
+    <img src="https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF" />
+  </a>
+</p>
+
+Contributed to **Kestra** by adding unit tests for the topology status helper, helping improve frontend test coverage and reliability across different execution states.
 
 ### Meshery — Design Pioneer
 
