@@ -163,50 +163,16 @@ Become a strong Cloud/DevOps Engineer 🚀
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
 </p>
 
-## 🌐 Open Source
+## 🏆 Achievements
 
 <p align="center">
   <a href="https://kestra.io/community?from=github-badge">
-    <img src="https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF" />
+    <img src="https://img.shields.io/badge/🏅_1st_PR_Merged-Kestra-8B5CF6?style=for-the-badge&labelColor=0D1117" />
   </a>
-  <a href="https://github.com/kestra-io/kestra">
-    <img src="https://img.shields.io/github/stars/kestra-io/kestra?style=for-the-badge&logo=github&label=KESTRA%20STARS&color=8B5CF6&labelColor=0D1117" />
-  </a>
+  <img src="https://img.shields.io/badge/🎨_Design_Pioneer-Meshery-00B39F?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🚀_Open_Source-Contributor-22C55E?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/☁️_Focus-Cloud_%26_DevOps-06B6D4?style=for-the-badge&labelColor=0D1117" />
 </p>
-
-<p align="center">
-  <a href="https://meshery.io">
-    <img src="https://img.shields.io/badge/MESHERY-DESIGN%20PIONEER-00B39F?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  </a>
-  <a href="https://github.com/meshery/meshery">
-    <img src="https://img.shields.io/github/stars/meshery/meshery?style=for-the-badge&logo=github&label=MESHERY%20STARS&color=00B39F&labelColor=0D1117" />
-  </a>
-</p>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🟣 Kestra
-**1st Pull Request — Merged**
-
-Added unit tests for the **topology status helper**, improving frontend test coverage across multiple execution states.
-
-`Testing` · `Frontend` · `Open Source`
-
-</td>
-<td width="50%" valign="top">
-
-### 🟢 Meshery
-**Design Pioneer**
-
-Created my first design in **Meshery** and explored the Cloud Native ecosystem through community participation.
-
-`Cloud Native` · `Design` · `Community`
-
-</td>
-</tr>
-</table>
 
 ## 🚀 Hands-On Projects
 
